@@ -1,0 +1,14 @@
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\bin\Debug\net8.0-windows\fourWins.exe
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\bin\Debug\net8.0-windows\fourWins.deps.json
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\bin\Debug\net8.0-windows\fourWins.runtimeconfig.json
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\bin\Debug\net8.0-windows\fourWins.dll
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\bin\Debug\net8.0-windows\fourWins.pdb
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\obj\Debug\net8.0-windows\fourWins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\obj\Debug\net8.0-windows\fourWins.AssemblyInfoInputs.cache
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\obj\Debug\net8.0-windows\fourWins.AssemblyInfo.cs
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\obj\Debug\net8.0-windows\fourWins.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\obj\Debug\net8.0-windows\fourWins.dll
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\obj\Debug\net8.0-windows\refint\fourWins.dll
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\obj\Debug\net8.0-windows\fourWins.pdb
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\obj\Debug\net8.0-windows\fourWins.genruntimeconfig.cache
+C:\Users\Konrad\Documents\Informatik\vsCodeCS\fourWins\obj\Debug\net8.0-windows\ref\fourWins.dll
